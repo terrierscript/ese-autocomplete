@@ -1,0 +1,10 @@
+li.selected{
+  background: rgb(66, 161, 149);
+}
+.search-complete-box{
+  ul{
+    li{
+      cursor: pointer;
+    }
+  }
+}
